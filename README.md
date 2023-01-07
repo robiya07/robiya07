@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [fuse-blog](https://github.com/robiya07/fuse_blog)
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **Django, FastAPI, Docer**
 
 - 👨‍💻 All of my projects are available at [https://github.com/robiya07?tab=repositories](https://github.com/robiya07?tab=repositories)
 
