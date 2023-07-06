@@ -8,7 +8,8 @@
 <a href="https://pinterest.com/obidjonova07/"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" alt="Yu Shi | Medium" width="21px"/></a>
 <a href="https://t.me/hp_user"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robiya07&label=rofile%20views&color=0c3854&style=flat" alt="nuriddinsobitov" /> </p>
+<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=robiya07&label=Profile%20views&color=0c3854&style=flat" alt="nuriddinsobitov" /> </p>
 
 
 
