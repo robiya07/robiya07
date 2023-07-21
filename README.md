@@ -9,8 +9,6 @@
 <a href="https://t.me/hp_user"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="Yu Shi | Instagram" width="21px"/></a>
 <br>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robiya07&label=Profile%20views&color=0c3854&style=flat" alt="nuriddinsobitov" /> </p>
-
 
 
 # 💻 Tech Stack:
